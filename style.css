@@ -25,6 +25,7 @@ body {
     border: solid 1px white;
     outline: none;
     background-color: lightgrey;
+    color: black;
 }
 
 .calculator-grid > button:hover {
