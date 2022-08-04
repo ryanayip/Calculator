@@ -42,3 +42,15 @@
     color: white;
 
 }
+
+.clearRow {
+    width: 300px
+}
+
+#clearButton {
+    width: 300px;
+}
+
+#operator {
+    background-color: cornflowerblue;
+}
